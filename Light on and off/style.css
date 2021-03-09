@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(169, 169, 236);
+}
+
+body{
+    text-align: center;
+    margin-top: 8rem;
+}
+h1{
+    color: rgba(236, 92, 8, 0.986);
+    margin-bottom: 1rem;
+
+}
+
+.btn1{
+    background-color: green;
+    font-size: 1.5rem;
+    border-radius: 5%;
+    margin-right: 2rem;
+}
+.btn2{
+    background-color: red;
+    font-size: 1.5rem;
+    border-radius: 10%;
+    margin-left: 2rem;
+}
+
